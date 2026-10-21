@@ -10,5 +10,5 @@
 ## 🚀 Instalación y Configuración Local
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/estilo-unico.git
-cd estilo-unico
+git clone https://github.com/yesidcortes/ESTILO-UNICO-PROYECTO
+cd ESTILO UNICO - SENA
